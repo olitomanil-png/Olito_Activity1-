@@ -36,9 +36,9 @@ public class Student {
 
     public static void main(String[] args) {
 
-        Student student1 = new Student("Juan Dela Cruz", "2026-001", 92.0);
+        Student student1 = new Student("Manilyn Olito", "251-0382-1", 92.0);
 
-        Student student2 = new Student("Maria Santos", "2026-002", 85.0);
+        Student student2 = new Student("Ken Gi", "251-0384-1", 85.0);
 
         student2.setGrade(88.5);
 
